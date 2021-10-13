@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Searchbox renders correctly 1`] = `
+<div>
+  <label
+    class="sc-gsTCUz cPmsHZ"
+    for="search"
+  >
+    <svg
+      class="sc-dlfnbm gWdAtF"
+      title="Search employees"
+    >
+      search.svg
+    </svg>
+    <input
+      class="sc-bdfBwQ jETauC"
+      id="search"
+      placeholder="Test"
+      value=""
+    />
+  </label>
+</div>
+`;

@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checkbox renders correctly 1`] = `
+<div>
+  <label
+    class="sc-dlfnbm kyDBUR"
+    for="checkbox"
+  >
+    <input
+      class="sc-gsTCUz bYQViw"
+      id="checkbox"
+      type="checkbox"
+    />
+    <span
+      class="sc-bdfBwQ dTBnQO"
+    />
+    <span
+      class="sc-hKgILt hCmaEo"
+    >
+      Checkbox
+    </span>
+  </label>
+</div>
+`;
